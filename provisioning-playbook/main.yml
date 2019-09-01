@@ -1,0 +1,7 @@
+---
+- hosts: local
+  roles:
+  - create
+#  - install_k8s
+#  - create_cluster
+#  - deploy_app

@@ -1,0 +1,11 @@
+[local]
+localhost ansible_connection=local ansible_python_interpreter="/usr/bin/python" gather_facts=false
+
+[semanadevops]
+3.94.122.116
+34.235.135.85
+3.85.11.178
+35.173.203.216
+18.232.96.14
+3.81.34.123
+
